@@ -1,6 +1,6 @@
 # bike_dashboard
 Using analytics to understand trends and insights for bike purchases
-![](BikeDashboard.png)
+![](BikeDashboardPreview.png)
 
 # Bike Project Excel File
 ## Sheets within the Excel Files
